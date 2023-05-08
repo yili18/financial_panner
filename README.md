@@ -1,4 +1,4 @@
-# financial_panner
+# Financial Planner
 
 ## The project is to determine if the community member has enough money to set up an emergency fund and how their investment performance will be in 30 years when they retire.
  
